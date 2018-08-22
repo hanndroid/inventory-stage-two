@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="colorPrimary">#A7FFEB</color>
+    <color name="colourButton">#BBDEFB</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#7986CB</color>
+    <color name="delete">#C62828</color>
+    <color name="editorColorPrimaryDark">#394450</color>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="supplier_options">
+        <item>@string/plant_supplier_unknown</item>
+        <item>@string/plant_supplier_patch</item>
+        <item>@string/plant_supplier_the_jungle</item>
+        <item>@string/plant_supplier_crocus</item>
+    </string-array>
+
+</resources>
